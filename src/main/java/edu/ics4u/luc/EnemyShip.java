@@ -1,3 +1,5 @@
+package edu.ics4u.luc;
+
 public abstract class EnemyShip {
 	
 	private String name;

@@ -1,3 +1,5 @@
+package edu.ics4u.luc;
+
 public class UFOEnemyShip extends EnemyShip {
 	
 	public UFOEnemyShip(){
